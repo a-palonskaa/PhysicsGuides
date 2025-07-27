@@ -2,6 +2,14 @@
 
 This repository contains guides on mechanics, thermodynamics, electrodynamics, optics, and quantum physics, developed to prepare for national competitions, with a special focus on the Belarusian Olympiad and the Belarusian national team.
 
+### 🌐 Web Version
+
+An official web version of this guide is available on the Belarusian Physics Olympiad website, under the "Books" section:
+
+🔗 **[https://belpho.org/books/#alina-guide](https://belpho.org/books/#alina-guide)**
+
+This online listing ensures the guide is accessible as a recognized resource for physics olympiad preparation.
+
 ### About the Project
 
 The project was created to help students prepare for physics competitions by providing structured materials and problems. Each guide includes a theoretical background, practical problems, and additional topics for further study.
